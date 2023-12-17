@@ -1,2 +1,3 @@
 # JAVA_CRUD-APP
-Hey I created this cool java application, that can connect to database and can perform create, insert, read, update, delete operation.
+Hey, I created this cool Java application, that can connect to the database and perform create, insert, read, update, and delete operations.
+![Screenshot (512)](https://github.com/Suprabhatbb62/JAVA_CRUD-APP/assets/86051393/fb29822b-2a14-4ed3-a552-b6813bfa114f)
